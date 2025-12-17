@@ -7,8 +7,8 @@ import os
 # --- CONNECTIVITY ---
 # CHANGE THIS: Use "127.0.0.1" for local testing
 # Use your "what-locked..." address for Playit.gg
-HOST = "zcwhv-103-141-56-210.a.free.pinggy.link" 
-PORT = 34395
+HOST = "jxnjd-103-141-56-210.a.free.pinggy.link" 
+PORT = 46117
 
 # --- VISUAL CONFIGURATION ---
 TARGET_PHONE_HEIGHT = 900  
